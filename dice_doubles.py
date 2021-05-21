@@ -4,7 +4,6 @@
 # Created on May 2021
 # This program runs a dice game program
 
-import string
 import random
 
 
